@@ -1,0 +1,7 @@
+D:\Socket Test\MySocket\MySocket\bin\Debug\MySocket.exe.config
+D:\Socket Test\MySocket\MySocket\bin\Debug\MySocket.exe
+D:\Socket Test\MySocket\MySocket\bin\Debug\MySocket.pdb
+D:\Socket Test\MySocket\MySocket\obj\Debug\MySocket.csprojAssemblyReference.cache
+D:\Socket Test\MySocket\MySocket\obj\Debug\MySocket.csproj.CoreCompileInputs.cache
+D:\Socket Test\MySocket\MySocket\obj\Debug\MySocket.exe
+D:\Socket Test\MySocket\MySocket\obj\Debug\MySocket.pdb
