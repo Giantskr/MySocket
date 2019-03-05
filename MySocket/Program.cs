@@ -13,7 +13,7 @@ namespace MySocket
         static void Main(string[] args)
         {
             Server server = new Server();
-            server.Start("172.16.0.4", 10081);
+            server.Start("172.16.0.4", 10080);
             while (true)
             {
                 string str = Console.ReadLine();
